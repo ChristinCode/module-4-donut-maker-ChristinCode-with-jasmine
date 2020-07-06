@@ -1,2 +1,4 @@
-# module-4-donut-maker-ChristinCode-with-jasmine
-Inspired by the Cook clicker Game
+# Basic Browser JavaScript - Donut Maker
+###### A tribute to [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
+
+[Donut Maker Requirements](https://wecancodeit-materials.netlify.app)
